@@ -1,6 +1,8 @@
 # Data visualizations with Tableau
-“Information graphics should be aesthetically pleasing but many designers think about aesthetics before they think about structure,
-about the information itself, about the story the graphic should tell.” – Alberto Cairo
+>Information graphics should be aesthetically pleasing but many designers think about aesthetics before they think about structure,
+>about the information itself, about the story the graphic should tell.
+>
+>Alberto Cairo
 
 Here a series of data visualizations made with Tableau about heterogeneous topics that interested me or simply inspired me.
 Visit my Tableau Public profile
