@@ -1,6 +1,6 @@
 # Data visualizations with Tableau
->Information graphics should be aesthetically pleasing but many designers think about aesthetics before they think about structure,
->about the information itself, about the story the graphic should tell.
+
+>It is in the combination of words and visuals that the magic of understanding often happens
 >
 >Alberto Cairo
 
