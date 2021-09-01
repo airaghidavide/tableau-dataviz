@@ -11,6 +11,10 @@ https://public.tableau.com/app/profile/davide.airaghi
 
 ## Visualizations
 
+### Family Guy
+The viz shows the data taken from IMDB concerning the rating,votes,duration etc of every singole episode accross the 19 seasons of the tv shows Family Guy created by Seth McFarlane.
+https://public.tableau.com/views/FamilyGuy/FamilyGuy?:language=it-IT&publish=yes&:display_count=n&:origin=viz_share_link
+
 ### Parliament
 The viz shows the data concerning the moving of the politics between different parties and coalitions during the legislature.
 https://public.tableau.com/views/Parliamentexchange/Sankey?:language=en-US&:display_count=n&:origin=viz_share_link
